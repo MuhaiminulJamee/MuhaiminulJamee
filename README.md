@@ -1,16 +1,16 @@
 ![logo](https://i.pinimg.com/originals/38/7e/4f/387e4f52081bfebd6ba96d9d784e9f94.gif)
-<h1 align="center">I'm Md. Muhaiminul Islam</h1>
+<h1 align="center">Hey Good people! I'm Muhaiminul..!</h1>
 <h3 align="center">A Very Passionate Learner and Coding Enthusiast</h3>
 <img align="right" alt="coding" width="350" img src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhaiminuljamee&label=Profile%20views&color=0e75b6&style=flat" alt="muhaiminuljamee" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning and App Development**
+- 💻 Currently learning and working on **Data Science, Machine Learning, Deep Learning, App Development and Embedded System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhaiminulJamee](https://github.com/MuhaiminulJamee)
 
 - 💬 Ask me about **Robotics, IoT, Machine Learning, Data Science, Electronics**
 
-- 📫 How to reach me **jamee.islam2018@gmail.com**
+- 📫 Contact me at **jamee.islam2018@gmail.com**
 
 - ⚡ Fun fact **A man with lots of humor 😎**
 
